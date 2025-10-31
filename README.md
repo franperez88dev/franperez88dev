@@ -1,18 +1,8 @@
 
-<table align="center" style="margin-bottom: 20px">
-  <tr>
-    <td>
-      <img src="https://github.com/franperez88dev/franperez88dev/blob/main/yo_Github.png" 
-           width="200" 
-           style="border-radius: 50%;" 
-           alt="Avatar de Fran Pérez" />
-    </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <h1> ¡Hola! Soy <span style="color:#58A6FF;">Fran Pérez</span></h1>
-      <h3>💻 Desarrollador Web · Full Stack · Creador de Experiencias Interactivas</h3>
-    </td>
-  </tr>
-</table>
+<article>
+      <h1 align="center" > ¡Hola! Soy <span style="color:#58A6FF;">Fran Pérez</span></h1>
+      <h3 align="center" >💻 Desarrollador Web · Full Stack · Creador de Experiencias Interactivas</h3>
+</article>
 
 
 ---
