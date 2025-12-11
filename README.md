@@ -43,15 +43,6 @@ los espacios bien distribuidos, las animaciones suaves, los botones que “se si
 
 ---
 
-### 🖥️ Stats y tecnologías
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franperez88dev&show_icons=true&theme=github_dark&hide_border=true" alt="Fran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franperez88dev&layout=compact&theme=github_dark&hide_border=true" alt="Fran's Top Languages" />
-</p>
-
----
-
 ### ✨ Curiosidad personal
 
 🎮 Me encanta crear pequeños juegos en Unity, experimentar con animaciones,  
