@@ -20,7 +20,7 @@ Actualmente busco incorporarme a un equipo de desarrollo donde aportar y seguir 
 > <img src="https://skillicons.dev/icons?i=py,flask,html,css,js,sqlite" />
 
 **Machine Learning:**
-> <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" />
+> <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 
 **Aprendiendo:**
 > <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
