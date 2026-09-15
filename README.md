@@ -1,53 +1,55 @@
-
-<article>
-      <h1 align="center" > ¡Hola! Soy <span style="color:#58A6FF;">Fran Pérez</span></h1>
-      <h3 align="center" >💻 Desarrollador Web · Full Stack · Creador de Experiencias Interactivas</h3>
-</article>
-
+<h1 align="center">¡Hola! Soy <span style="color:#58A6FF;">Fran Pérez</span></h1>
+<h3 align="center">💻 Desarrollador Python · Full-Stack</h3>
 
 ---
 
 ### 💬 Sobre mí
 
-Soy un apasionado del desarrollo web, la programación y el diseño funcional.  
-Me encanta crear **aplicaciones, webs y pequeños juegos en 2D** donde cada detalle cuenta:  
-los espacios bien distribuidos, las animaciones suaves, los botones que “se sienten bien” al usarse.  
+Desarrollador orientado al desarrollo web full-stack con Python. Me gusta construir
+aplicaciones completas de principio a fin: desde el modelo de datos y la lógica de
+backend hasta una interfaz cuidada donde cada detalle cuenta. Cuento con formación
+en Machine Learning y con experiencia previa en desarrollo web en entorno empresarial.
+
+Actualmente busco incorporarme a un equipo de desarrollo donde aportar y seguir creciendo.
 
 ---
 
-### 🧠 Tecnologías y herramientas que uso
+### 🧠 Tecnologías y herramientas
 
-**Lenguajes y frameworks principales:**
-> <img src="https://skillicons.dev/icons?i=py,flask,html,css,js,unity,blender,cs" /> 
+**Principales:**
+> <img src="https://skillicons.dev/icons?i=py,flask,html,css,js,sqlite" />
 
-**Aprendiendo y explorando:**
-> <img src="https://skillicons.dev/icons?i=nextjs,react,django,tailwind,fastapi,ts" /> 
+**Machine Learning:**
+> <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" />
 
-**Otras herramientas:**
-> <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,obsidian,ps" /> 
+**Aprendiendo:**
+> <img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
 
----
-
-### ⚡ Actualmente
-
-- 🎓 Realizando prácticas en el área de **Machine Learning** con Python y Scikit-learn.  
-- 🚀 En proceso de consolidarme como **Desarrollador Full Stack**.  
-- 🧩 Trabajando en mi **portfolio personal** con proyectos propios.
+**Herramientas:**
+> <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
-### 📫 Cómo contactarme
+### 🚀 Proyecto destacado
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-perez-romero/)
-- 📧 **franciscoangelperez@gmail.com**
+**[Palomitas y Series](https://github.com/franperez88dev/palomitas-y-series)** —
+aplicación web full-stack tipo catálogo de películas y series (Flask · SQLAlchemy ·
+Bootstrap), con sistema de usuarios, panel de administración y base de datos relacional.
+
+---
+
+### 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/franciscoangelperez/)
+- 📧 franciscoangelperez@gmail.com
+- 🌐 [Portfolio](https://franperez88dev.github.io/portfolio/)
 
 ---
 
-### ✨ Curiosidad personal
+### ✨ Un poco más sobre mí
 
-🎮 Me encanta crear pequeños juegos en Unity, experimentar con animaciones,  
-y llevar ideas a la pantalla con un toque de creatividad y técnica.
-
----
+🎮 Además del desarrollo web, disfruto creando pequeños juegos en Unity y
+experimentando con animación y diseño. Me gusta llevar ideas a la pantalla
+combinando creatividad y técnica.
 
 <p align="center">🌟 Gracias por visitar mi perfil 🌟</p>
